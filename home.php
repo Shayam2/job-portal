@@ -62,7 +62,7 @@
             <div class="col-sm-4 info-blocks">
                 <i class="icon-info-blocks fa fa-building-o"></i>
                 <div class="info-blocks-in">
-                    <h3><?php echo $company->COMPANYNAME;?></h3>
+                    <h3><?php echo $company->COMPANYNAMES1;?></h3>
                     <!-- <p><?php echo $company->COMPANYMISSION;?></p> -->
                     <p>Address :<?php echo $company->COMPANYADDRESS;?></p>
                     <p>Contact No. :<?php echo $company->COMPANYCONTACTNO;?></p>
@@ -119,6 +119,9 @@
           &nbsp;&nbsp;We have a passion for our clients' true results and a pragmatic drive for action that starts Monday morning 8am and doesn't let up. We rally clients with our infectious energy, to make change stick.<br/><br/>
 
           &nbsp;&nbsp;And we never go it alone. We support and are supported to develop our own personal results stories. We balance challenging and co-creating with our clients, building the internal capabilities required for them to create repeatable results. </p>
+         
+          &nbsp;&nbsp;Our "one team" attitude breaks down silos and helps us engage equally effectively from the C-suite to the front line. Our collaborative working style emphasizes teamwork, trust, and tolerance for diverging opinions. People tell us we are down-to-earth, approachable and fun.<br/><br/>
+        
         </div> 
       </div>
     </div><!-- /.row-->
